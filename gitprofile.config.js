@@ -30,7 +30,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'file:///C:/Users/chris/OneDrive/Documents/Resume%20CMChesley%20c.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://1drv.ms/w/s!AvhqjLtc5soPp2oW8bgYFAwcx1lC?e=JBujxx', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     ' ',
