@@ -89,11 +89,15 @@ const config = {
       link: 'https://drive.google.com/file/d/1Qg9ty5y-qDhNCrNj5_J0MpTuawZFzYy6/view?usp=sharing',
     },
     {
-      title: 'Final Project Report and Presentation',
+      title: 'Final Project Report',
       description: 
         'A group project looking at an AT&T retail store in Morrisville, NC',
       link: 'https://docs.google.com/document/d/14poXFYA1QblZRDsyV6-pE8zY5cvtA4Og/edit?usp=sharing&ouid=114102016806308775570&rtpof=true&sd=true',
-      presentation: 'https://drive.google.com/file/d/1Hh_9v9Mp_-3VTES1pDaRmu7hY-wFFDq_/view?usp=sharing',
+      {
+      title: 'Final Project Presentation',
+      description: 
+        'Our group project presentation',
+      link: 'https://drive.google.com/file/d/1Hh_9v9Mp_-3VTES1pDaRmu7hY-wFFDq_/view?usp=sharing'
     },
     {
       title: 'TryHackMe Activity',
