@@ -37,26 +37,23 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'Rise29',
+      position: 'Intern',
+      from: 'May 2023',
+      to: 'August 2023',
+      companyLink: '',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Harris Teeter',
+      position: 'Cashier',
+      from: 'August 2019',
+      to: 'January 2023',
+      companyLink: '',
     },
   ],
   /* certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      
     },
   ], */
   education: [
@@ -67,29 +64,42 @@ const config = {
       to: '2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+
     },
   ],
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Home Network Diagram',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'Presentation of my home network diagram. Consisting of all of the devices connected to my network and how they are connected.',
+      link: 'https://drive.google.com/file/d/1pTMC1PoHixomF-NrPFJmmKxn9YEEmuh-/view?usp=sharing',
     },
     {
-      title: 'Project Name',
+      title: 'Splunk Activity and Summary',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'Looking at Splunk and an activity I completed',
+      link: 'https://docs.google.com/document/d/1sqAAadokGVDGGHkMNRV7WB8CZYhPHV4E/edit?usp=sharing&ouid=114102016806308775570&rtpof=true&sd=true',
     },
+    {
+      title: 'Pitch Statement',
+      description:
+        'My pitch statement to companies',
+      link: 'https://drive.google.com/file/d/1Qg9ty5y-qDhNCrNj5_J0MpTuawZFzYy6/view?usp=sharing',
+    },
+    {
+      title: 'Final Project Report and Presentation',
+      description: 
+        'A group project looking at an AT&T retail store in Morrisville, NC',
+      link: 'https://docs.google.com/document/d/14poXFYA1QblZRDsyV6-pE8zY5cvtA4Og/edit?usp=sharing&ouid=114102016806308775570&rtpof=true&sd=true',
+      presentation: 'https://drive.google.com/file/d/1Hh_9v9Mp_-3VTES1pDaRmu7hY-wFFDq_/view?usp=sharing',
+    },
+    {
+      title: 'TryHackMe Activity',
+        description: 'Two activities I completed through TryHackMe',
+      imageURL: 'https://docs.google.com/document/d/1Umox7nLyijS3NvM4auM5gKNOOZ9eoDzt/edit?usp=sharing&ouid=114102016806308775570&rtpof=true&sd=true',
+}
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
