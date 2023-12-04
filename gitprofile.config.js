@@ -93,12 +93,13 @@ const config = {
       description: 
         'A group project looking at an AT&T retail store in Morrisville, NC',
       link: 'https://docs.google.com/document/d/14poXFYA1QblZRDsyV6-pE8zY5cvtA4Og/edit?usp=sharing&ouid=114102016806308775570&rtpof=true&sd=true',
+    },
       {
       title: 'Final Project Presentation',
       description: 
         'Our group project presentation',
       link: 'https://drive.google.com/file/d/1Hh_9v9Mp_-3VTES1pDaRmu7hY-wFFDq_/view?usp=sharing'
-    },
+      },
     {
       title: 'TryHackMe Activity',
         description: 'Two activities I completed through TryHackMe',
