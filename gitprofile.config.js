@@ -98,7 +98,7 @@ const config = {
     {
       title: 'TryHackMe Activity',
         description: 'Two activities I completed through TryHackMe',
-      imageURL: 'https://docs.google.com/document/d/1Umox7nLyijS3NvM4auM5gKNOOZ9eoDzt/edit?usp=sharing&ouid=114102016806308775570&rtpof=true&sd=true',
+      link: 'https://docs.google.com/document/d/1Umox7nLyijS3NvM4auM5gKNOOZ9eoDzt/edit?usp=sharing&ouid=114102016806308775570&rtpof=true&sd=true',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
