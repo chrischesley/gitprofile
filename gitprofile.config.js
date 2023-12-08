@@ -105,6 +105,11 @@ const config = {
         description: 'Two activities I completed through TryHackMe',
       link: 'https://docs.google.com/document/d/1Umox7nLyijS3NvM4auM5gKNOOZ9eoDzt/edit?usp=sharing&ouid=114102016806308775570&rtpof=true&sd=true',
     },
+    {
+      title: 'TryHackMe SDLC Activity',
+        description: 'SDLC Activity in TryHackMe',
+      link: 'https://drive.google.com/file/d/16M_lCEv2V6CuG-sFtw7JiYpAMg6AOLvg/view?usp=sharing',
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
